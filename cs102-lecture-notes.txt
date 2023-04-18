@@ -1,0 +1,5 @@
+git add - move changes from working directory to staging area.
+git branch - creates isolated development environments within a single repository.
+git clone - creates a clone of existing github repository.
+git commit - takes the staged changes and commit it to the github repository.
+git init - initializes a new git repository.
