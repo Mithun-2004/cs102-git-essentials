@@ -3,3 +3,8 @@ git branch - creates isolated development environments within a single repositor
 git clone - creates a clone of existing github repository.
 git commit - takes the staged changes and commit it to the github repository.
 git init - initializes a new git repository.
+
+In today's class, Sir taught us about how to create a repository, contribute to git projects such as how to add a file to git repository, how to commit changes to a git file,how to pull the changes in a git repository etc...
+He also gave a brief explanation about markdown languages such as HTML, XML.
+Wikipedia, and the course website was built using markdown.
+
